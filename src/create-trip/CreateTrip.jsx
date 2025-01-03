@@ -132,7 +132,7 @@ const CreateTrip = () => {
         </div>
         <div>
           <h2 className="text-xl my-3 font-medium">
-            What is destination of choice?
+            How many days are you planning your trip?
           </h2>
           <Input
             placeholder={"Ex. 2"}

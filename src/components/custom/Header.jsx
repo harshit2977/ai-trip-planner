@@ -48,7 +48,7 @@ const Header = () => {
       });
   };
   return (
-    <div className="p-3 shadow-sm flex justify-between items-center px-5 bg-gradient-to-r from-violet-200 to-pink-200">
+    <div className="w-full p-3 shadow-sm flex justify-between items-center px-5 bg-gradient-to-r from-violet-200 to-pink-200">
       <img src="/travel.svg" className="h-[200px] w-[200px]" />
       <div>
         {user ? (
